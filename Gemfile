@@ -14,6 +14,8 @@ gem 'haml'
 gem 'typhoeus'
 gem 'yajl-ruby'
 gem 'pony'
+gem 'omniauth'
+gem 'omniauth-google-oauth2'
 
 group :test do
   gem 'minitest'
